@@ -46,7 +46,7 @@ Some built-in browser functions are not part of the core JavaScript language. So
 
 # Functions versus methods
 
-Functions that are part of objects are called methods.
+Functions that are part of objects are called `methods`.
 
 # Invoking functions
 
